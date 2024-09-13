@@ -1,0 +1,66 @@
+/* style1.css - Classic look */
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+section {
+    display: block;
+    margin-bottom: 30px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+article h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+aside {
+    background-color: #e4e4e4;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
